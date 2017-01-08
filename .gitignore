@@ -64,3 +64,4 @@ DerivedDataCache/*
 *.log
 *.ini
 *.bin
+AutoScreenshot.png
